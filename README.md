@@ -13,16 +13,16 @@ Install nltk package
 if the installation process causes some troubles
 then install that manually
 like
-pip install Flask
-pip install flask-core
-pip install nltk
-pip install torch
-pip install torchvision
-pip install keras
-pip install tensorflow
-pip install numpy
-make sure about the versions
-
+$ pip install Flask
+$ pip install flask-core
+$ pip install nltk
+$ pip install torch
+$ pip install torchvision
+$ pip install keras
+$ pip install tensorflow
+$ pip install numpy
+$ make sure about the versions
+# After that run the train.py file so that model.h5 file should create
 $ (venv) python train.py
 ```
 
